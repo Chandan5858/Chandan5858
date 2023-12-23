@@ -1,5 +1,6 @@
 # Hello, I'm Chandan Sahu 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=Chandan5858&color=blue)
+
 I'm a Web Developer with a passion for Coding. Welcome to my GitHub profile! 
 ## About Me
 - 🔭 I’m currently working on MERN.
@@ -10,7 +11,7 @@ I'm a Web Developer with a passion for Coding. Welcome to my GitHub profile!
 - 😄 Pronouns: Chandan.
 - ⚡ Fun fact: "Coding: where logic meets creativity".
 
-  ## My Projects
+## My Projects
 Here are some of the projects I've worked on:
 1. [HRMS](Link to Project): Human Resource Management System.
 2. [Django To-Do List](Link to Project): To-Do List using Django Web Framework.
