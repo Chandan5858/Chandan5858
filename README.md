@@ -18,8 +18,16 @@ Here are some of the projects I've worked on:
 3. [Portfolio Website](Link to Project): My Personal Portfolio Website.
 You can explore more of my projects in my [GitHub repositories](https://github.com/Chandan5858).
 ## Languages and Tools
-- [C,Core-Java,Python,HTMl,CSS,JavaScript]
-- [React,Git-Hub,VS-Code]
+- [C]
+- [Core-Java]
+- [Python]
+- [HTMl
+- [CSS]
+- [JavaScript]
+- [React]
+- [Django]
+- [Git-Hub]
+- [VS-Code]
 ## GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandan5858&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Connect with Me
